@@ -1,6 +1,12 @@
 # Predicting Poor Clinical Outcome in Paediatric Sepsis Using Point-of-Care Features
 
-**Md Rafin Rahman** | System Engineer, Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh
+**Md Rafin Rahman**[1], **Abdallah Tasawar Khan**[2], **Jafren Iqbal Rose**[3]
+[1] institute for developing Science and Health initiatives (ideSHi), Dhaka, Bangladesh
+[2] Kurmitola General Hospital, Dhaka, Bangladesh
+[3] Shaheed Monsur Ali Medical College & Hospital
+
+Correspondence: mrahman@ideshi.org
+
 **Contact:** mrahman@ideshi.org
 
 ---
