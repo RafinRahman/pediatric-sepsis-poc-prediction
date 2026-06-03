@@ -6,7 +6,6 @@
 [2] Kurmitola General Hospital, Dhaka, Bangladesh
 [3] Shaheed Monsur Ali Medical College & Hospital
 
-Correspondence: mrahman@ideshi.org
 
 **Contact:** mrahman@ideshi.org
 
