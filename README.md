@@ -1,13 +1,12 @@
 # Predicting Poor Clinical Outcome in Paediatric Sepsis Using Point-of-Care Features
 
-**Md Rafin Rahman**[1], **Abdallah Tasawar Khan**[2], **Jafren Iqbal Rose**[3]
+**Md Rafin Rahman**¹, **Abdallah Tasawar Khan**², **Jafren Iqbal Rose**³, **Md Rofiqur Rahman**¹, **Firdausi Qadri**¹
 
-[1] institute for developing Science and Health initiatives (ideSHi), Dhaka, Bangladesh
-[2] Kurmitola General Hospital, Dhaka, Bangladesh
-[3] Shaheed Monsur Ali Medical College & Hospital
+¹ Institute for Developing Science and Health Initiatives (ideSHi), Dhaka, Bangladesh
+² Kurmitola General Hospital, Dhaka, Bangladesh
+³ Shaheed Monsur Ali Medical College & Hospital, Dhaka, Bangladesh
 
-
-**Contact:** mrahman@ideshi.org
+**Corresponding author:** Md Rafin Rahman, mrahman@ideshi.org
 
 ---
 
@@ -15,8 +14,8 @@
 
 This repository contains the complete analysis code for the manuscript:
 
-> **Predicting Poor Clinical Outcome in Children with Suspected Sepsis in a Low-Resource Setting Using Point-of-Care Features: Model Development and Evaluation on a Ugandan LMIC Cohort**
-> Md Rafin Rahman. *Submitted for publication, 2026.*
+> **Predicting Poor Clinical Outcome in Children with Suspected Sepsis in a Low-Resource Setting Using Point-of-Care Features: Model Development and Evaluation on a Ugandan Cohort**
+> Rahman MR, Khan AT, Rose JI. *Submitted for publication, 2026.*
 
 The study develops and evaluates a machine learning model for predicting a composite poor clinical outcome (in-hospital death or length of stay exceeding five days) in children under five years admitted with suspected sepsis in a sub-Saharan African low-resource setting. The model is constrained to point-of-care clinical features only — no laboratory tests, no imaging — collectable by a trained nurse or community health worker with a thermometer, pulse oximeter, and MUAC tape.
 
@@ -153,10 +152,10 @@ The logistic regression model was found to be systematically miscalibrated prior
 If you use this code, please cite the manuscript:
 
 ```
-Rahman MR. Predicting Poor Clinical Outcome in Children with Suspected Sepsis in a
-Low-Resource Setting Using Point-of-Care Features: Model Development and Evaluation
-on a Ugandan LMIC Cohort. Submitted for publication, 2026.
-ideSHi, Dhaka, Bangladesh. Contact: mrahman@ideshi.org
+Rahman MR, Khan AT, Rose JI. Predicting Poor Clinical Outcome in Children with
+Suspected Sepsis in a Low-Resource Setting Using Point-of-Care Features: Model
+Development and Evaluation on a Ugandan Cohort. Submitted for publication, 2026.
+Contact: mrahman@ideshi.org
 ```
 
 Please also cite the original dataset:
