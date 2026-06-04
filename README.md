@@ -10,6 +10,8 @@
 
 ---
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20524392.svg)](https://doi.org/10.5281/zenodo.20524392)
+
 ## Overview
 
 This repository contains the complete analysis code for the manuscript:
@@ -52,6 +54,8 @@ The analysis uses the **2024 Pediatric Sepsis Data Challenge Synthetic Training 
 
 - **DOI:** [10.5683/SP3/TFAV36](https://doi.org/10.5683/SP3/TFAV36)
 - **Access:** Free membership registration at [https://borealisdata.ca/dataverse/Pedi_SepsisCoLab](https://borealisdata.ca/dataverse/Pedi_SepsisCoLab)
+
+**Code archive (this repository):** Permanently archived on Zenodo at [https://doi.org/10.5281/zenodo.20524392](https://doi.org/10.5281/zenodo.20524392)
 
 The synthetic dataset was generated from a real-world prospective cohort of 3,837 children admitted with suspected sepsis across six Ugandan hospitals (2017–2020), described in:
 
@@ -156,6 +160,7 @@ Rahman MR, Khan AT, Rose JI. Predicting Poor Clinical Outcome in Children with
 Suspected Sepsis in a Low-Resource Setting Using Point-of-Care Features: Model
 Development and Evaluation on a Ugandan Cohort. Submitted for publication, 2026.
 Contact: mrahman@ideshi.org
+Code DOI: https://doi.org/10.5281/zenodo.20524392
 ```
 
 Please also cite the original dataset:
